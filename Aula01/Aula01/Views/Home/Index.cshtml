@@ -1,8 +1,54 @@
-﻿@{
+﻿@model Variables
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
+
+
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Bem-Vindo</h1>
+
+    <p>
+        O Valor mínimo de <b>Byte</b> é: <i>@Model.byteMin</i>
+    </p>
+
+    <p>
+        O Valor máximo de <b>Byte</b> é: <i>@Model.byteMax</i>
+    </p>
+
+    <p>
+        O Valor mínimo de <b>Short</b> é: <i>@Model.shortMin</i>
+    </p>
+
+    <p>
+        O Valor máximo de <b>Short</b> é: <i>@Model.shortMax</i>
+    </p>
+
+    <p>
+        O Valor mínimo de <b>Int</b> é: <i>@Model.intMin</i>
+    </p>
+
+    <p>
+        O Valor máximo de <b>Int</b> é: <i>@Model.intMax</i>
+    </p>
+
+    <p>
+        O Valor mínimo de <b>Uint</b> é: <i>@Model.uintMin</i>
+    </p>
+
+    <p>
+        O Valor máximo de <b>Uint</b> é: <i>@Model.uintMax</i>
+    </p>
+
+    <p>
+        O Valor mínimo de <b>Long</b> é: <i>@Model.longMin</i>
+    </p>
+
+    <p>
+        O Valor máximo de <b>Long</b> é: <i>@Model.longMax</i>
+    </p>
+
+
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>

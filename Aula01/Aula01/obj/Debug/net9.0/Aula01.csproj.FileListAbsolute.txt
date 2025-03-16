@@ -14,6 +14,7 @@ D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.csproj.CoreC
 D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.MvcApplicationPartsAssemblyInfo.cache
 D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.RazorAssemblyInfo.cache
 D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.RazorAssemblyInfo.cs
+D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.sourcelink.json
 D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\scopedcss\bundle\Aula01.styles.css
 D:\Programação I\Atividades\Aula01\Aula01\obj\Debug\net9.0\scopedcss\projectbundle\Aula01.bundle.scp.css

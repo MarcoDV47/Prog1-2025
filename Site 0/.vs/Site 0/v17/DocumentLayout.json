@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Site 0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C7D363-AE26-420F-A13B-2231FEE7953B}|Site 0\\Site 0.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\site 0\\site 0\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C7D363-AE26-420F-A13B-2231FEE7953B}|Site 0\\Site 0.csproj|solutionrelative:site 0\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C7D363-AE26-420F-A13B-2231FEE7953B}|Site 0\\Site 0.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\site 0\\site 0\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C7D363-AE26-420F-A13B-2231FEE7953B}|Site 0\\Site 0.csproj|solutionrelative:site 0\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteController.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Site 0\\Site 0\\Controllers\\TesteController.cs",
+              "RelativeDocumentMoniker": "Site 0\\Controllers\\TesteController.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Site 0\\Site 0\\Controllers\\TesteController.cs",
+              "RelativeToolTip": "Site 0\\Controllers\\TesteController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:29:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Site 0\\Site 0\\Views\\Teste\\Index.cshtml",
+              "RelativeDocumentMoniker": "Site 0\\Views\\Teste\\Index.cshtml",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Site 0\\Site 0\\Views\\Teste\\Index.cshtml",
+              "RelativeToolTip": "Site 0\\Views\\Teste\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T00:28:34.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

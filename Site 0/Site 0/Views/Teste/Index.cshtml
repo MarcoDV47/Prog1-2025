@@ -1,0 +1,67 @@
+﻿@model Site_0.Controllers.Result;
+
+@{
+}
+
+<h1>CONTROLLER: Teste</h1>
+<h2>Método Index</h2>
+<h3>View Index</h3>
+
+<hr />
+
+<form method="post" 
+asp-action="Index" 
+asp-controller="Teste">
+
+    <input type="text" id="texto" name="texto" placeholder="Palavra"/>
+    <input type="text" id="cifra" name="cifra" placeholder="Cifra"/>
+    <input type="number" id="numero" name="numero" />
+    <button type="submit">Enviar</button>
+
+</form>
+
+<hr />
+
+@if (!string.IsNullOrEmpty(Model.Texto) || !string.IsNullOrEmpty(Model.Cifra))
+{
+    string cipher = string.Empty;
+    int cipherKey = 2;
+
+    // Conversão de texto para cifra
+
+    foreach (char x in Model.Texto)
+    {
+        int sum = x + cipherKey;
+        /*
+
+        65 A
+            90 Z
+
+        */
+
+        if (sum > 90)
+        {
+            cipher += (char)(65 - (91 - x) + cipherKey);
+        }
+        else cipher += (char)(x + cipherKey);
+    }
+
+    // Conversão de cifra para texto
+
+    foreach (char x in Model.Cifra)
+    {
+        int sum = x - cipherKey;
+
+        if (sum < 65)
+        {
+            cipher += (char)(90 + (x - 64) - cipherKey);
+        }
+        else cipher += (char)(x - cipherKey);
+    }
+
+    <div>
+        <p>Texto: @Model.Texto</p>
+        <p>Cifra: @Model.Cifra</p>
+        <p>Conversão: @cipher</p>
+    </div>
+}
