@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\",
+  "WorkspaceRootPath": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\models\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\models\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|solutionrelative:aula01\\models\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|solutionrelative:aula01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\aula01\\aula01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AEACFE1D-39BB-4AE7-A2BE-375F8D331910}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Aula01\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Aula01\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Aula01\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,22 +60,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Variables.cs",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\Variables.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\Variables.cs",
               "RelativeDocumentMoniker": "Aula01\\Models\\Variables.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\Variables.cs",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Models\\Variables.cs",
               "RelativeToolTip": "Aula01\\Models\\Variables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:01:31.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T17:01:31.335Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Aula01\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

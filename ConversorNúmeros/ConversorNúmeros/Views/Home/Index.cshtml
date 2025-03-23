@@ -1,10 +1,27 @@
-﻿@model Numbers
+﻿@model ConversorNúmeros.Controllers.Result;
 
 @{
     ViewData["Title"] = "Home Page";
 }
 
-<h1>@Model.myNumber</h1>
-<h1>@Model.WriteNumber()</h1>
-<h1>@Model.WriteNumber()</h1>
-<h1>terminou</h1>
+<h1>CONTROLLER: Home</h1>
+<h2>Método Index</h2>
+<h3>View Index</h3>
+
+<hr />
+
+<form method="post"
+      asp-action="Index"
+      asp-controller="/">
+
+    <input type="number" id="numero" name="numero" placeholder="Número" />
+    <button type="submit">Enviar</button>
+
+</form>
+
+<hr />
+
+@if (!string.IsNullOrEmpty(Model.WritenNumber))
+{
+    <h1>@Model.WritenNumber</h1>
+}

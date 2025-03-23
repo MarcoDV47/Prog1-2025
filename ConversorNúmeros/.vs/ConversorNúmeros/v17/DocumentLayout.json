@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,22 +32,9 @@
               "RelativeDocumentMoniker": "ConversorN\u00FAmeros\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\ConversorN\u00FAmeros\\ConversorN\u00FAmeros\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ConversorN\u00FAmeros\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:50:44.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\ConversorN\u00FAmeros\\ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\ConversorN\u00FAmeros\\ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T00:16:05.942Z",
               "EditorCaption": ""
             },
             {
@@ -62,9 +45,22 @@
               "RelativeDocumentMoniker": "ConversorN\u00FAmeros\\Models\\Numbers.cs",
               "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\ConversorN\u00FAmeros\\ConversorN\u00FAmeros\\Models\\Numbers.cs",
               "RelativeToolTip": "ConversorN\u00FAmeros\\Models\\Numbers.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAQwAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:15:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\ConversorN\u00FAmeros\\ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\ConversorN\u00FAmeros\\ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConversorN\u00FAmeros\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:16:05.942Z",
               "EditorCaption": ""
             }
           ]

@@ -3,7 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 using ConversorNúmeros.Models;
 
 namespace ConversorNúmeros.Controllers;
-
+public class Result
+{
+    public string WritenNumber = string.Empty;
+    public int toConvertNumber = 1;
+}
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
@@ -16,8 +20,17 @@ public class HomeController : Controller
     [HttpGet]
     public IActionResult Index()
     {
-        Numbers numbers = new();
-        return View(numbers);
+        return View("Index", new Result());
+    }
+
+    [HttpPost]
+    public IActionResult Index(int numero)
+    {
+        Result resultado = new();
+        Numbers numeros = new();
+        resultado.WritenNumber = numeros.WriteNumber(numero);
+
+        return View("Index", resultado);
     }
 
     public IActionResult Privacy()

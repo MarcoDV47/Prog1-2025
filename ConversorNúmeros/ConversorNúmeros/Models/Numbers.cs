@@ -5,16 +5,16 @@
         public int myNumber = 925;
         public string myNumberInWords = String.Empty;
 
-        public string WriteNumber() 
+        public string WriteNumber(int numero) 
         {
-            int size = myNumber.ToString().Length;
+            int size = numero.ToString().Length;
             string numberInWords = String.Empty;
             string checkedString = String.Empty; 
             bool unit = false;
             bool ten = false;
             bool hundred = false;
 
-            foreach (char x in myNumber.ToString())
+            foreach (char x in numero.ToString())
             {
                 if (numberInWords.Length > 0)
                 {
@@ -78,16 +78,16 @@
                 }
                 else if (ten && size == 1)
                 {
-                    if (x == '0') numberInWords += "dez";
-                    if (x == '1') numberInWords += "onze";
-                    if (x == '2') numberInWords += "doze";
-                    if (x == '3') numberInWords += "treze";
-                    if (x == '4') numberInWords += "quatorze";
-                    if (x == '5') numberInWords += "quinze";
-                    if (x == '6') numberInWords += "dezesseis";
-                    if (x == '7') numberInWords += "dezessete";
-                    if (x == '8') numberInWords += "dezoito";
-                    if (x == '9') numberInWords += "dezenove";
+                    if (x == '0') numberInWords += checkedString + "dez";
+                    if (x == '1') numberInWords += checkedString + "onze";
+                    if (x == '2') numberInWords += checkedString + "doze";
+                    if (x == '3') numberInWords += checkedString + "treze";
+                    if (x == '4') numberInWords += checkedString + "quatorze";
+                    if (x == '5') numberInWords += checkedString + "quinze";
+                    if (x == '6') numberInWords += checkedString + "dezesseis";
+                    if (x == '7') numberInWords += checkedString + "dezessete";
+                    if (x == '8') numberInWords += checkedString + "dezoito";
+                    if (x == '9') numberInWords += checkedString + "dezenove";
                 }
                 else if (unit && size == 1)
                 {
@@ -117,8 +117,6 @@
 
                 size--;
             }
-
-            myNumberInWords = numberInWords;
 
             return numberInWords;
         }
