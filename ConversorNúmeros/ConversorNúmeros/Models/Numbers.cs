@@ -2,7 +2,7 @@
 {
     public class Numbers
     {
-        public int myNumber = 900;
+        public int myNumber = 925;
         public string myNumberInWords = String.Empty;
 
         public string WriteNumber() 
@@ -67,14 +67,14 @@
                 else if (size == 2)
                 {
                     if (x == '1') ten = true;
-                    if (x == '2') numberInWords += "vinte";
-                    if (x == '3') numberInWords += "trinta";
-                    if (x == '4') numberInWords += "quarenta";
-                    if (x == '5') numberInWords += "cinquenta";
-                    if (x == '6') numberInWords += "sessenta";
-                    if (x == '7') numberInWords += "setenta";
-                    if (x == '8') numberInWords += "oitenta";
-                    if (x == '9') numberInWords += "noventa";
+                    if (x == '2') numberInWords += checkedString + "vinte";
+                    if (x == '3') numberInWords += checkedString + "trinta";
+                    if (x == '4') numberInWords += checkedString + "quarenta";
+                    if (x == '5') numberInWords += checkedString + "cinquenta";
+                    if (x == '6') numberInWords += checkedString + "sessenta";
+                    if (x == '7') numberInWords += checkedString + "setenta";
+                    if (x == '8') numberInWords += checkedString + "oitenta";
+                    if (x == '9') numberInWords += checkedString + "noventa";
                 }
                 else if (ten && size == 1)
                 {
