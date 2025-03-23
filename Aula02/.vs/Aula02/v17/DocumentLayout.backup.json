@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula02\\aula02\\models\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|solutionrelative:aula02\\models\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula02\\aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|solutionrelative:aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula02\\aula02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|solutionrelative:aula02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|d:\\programa\u00E7\u00E3o i\\atividades\\aula02\\aula02\\models\\typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36162352-66D6-4D1E-B0CC-245D8FC4573E}|Aula02\\Aula02.csproj|solutionrelative:aula02\\models\\typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula02\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:39:45.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataType.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Models\\DataType.cs",
+              "RelativeDocumentMoniker": "Aula02\\Models\\DataType.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Models\\DataType.cs",
+              "RelativeToolTip": "Aula02\\Models\\DataType.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:35:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeCasting.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Models\\TypeCasting.cs",
+              "RelativeDocumentMoniker": "Aula02\\Models\\TypeCasting.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Models\\TypeCasting.cs",
+              "RelativeToolTip": "Aula02\\Models\\TypeCasting.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:32:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o I\\Atividades\\Aula02\\Aula02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aula02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T22:32:29.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
