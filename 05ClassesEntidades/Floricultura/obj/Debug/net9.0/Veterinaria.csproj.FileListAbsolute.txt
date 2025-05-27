@@ -1,0 +1,12 @@
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\bin\Debug\net9.0\Veterinaria.deps.json
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\bin\Debug\net9.0\Veterinaria.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\bin\Debug\net9.0\Veterinaria.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.AssemblyInfoInputs.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.AssemblyInfo.cs
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.sourcelink.json
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\refint\Veterinaria.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\Veterinaria.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Floricultura\obj\Debug\net9.0\ref\Veterinaria.dll

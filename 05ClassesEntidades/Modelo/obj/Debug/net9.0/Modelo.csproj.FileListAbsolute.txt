@@ -1,0 +1,12 @@
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\bin\Debug\net9.0\Modelo.deps.json
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\bin\Debug\net9.0\Modelo.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\bin\Debug\net9.0\Modelo.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\ref\Modelo.dll

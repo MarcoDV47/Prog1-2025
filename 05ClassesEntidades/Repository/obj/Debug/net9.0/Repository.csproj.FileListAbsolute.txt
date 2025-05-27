@@ -1,0 +1,16 @@
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Repository.deps.json
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Repository.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Repository.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.sourcelink.json
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\refint\Repository.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\ref\Repository.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Modelo.dll
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Modelo.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
