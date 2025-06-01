@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Customer\\Create.cshtml",
-              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "05ClassesEntidades\\Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "05ClassesEntidades\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T00:36:10.482Z",
+              "WhenOpened": "2025-06-01T23:14:07.231Z",
               "EditorCaption": ""
             },
             {
@@ -49,35 +49,35 @@
               "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "05ClassesEntidades\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAB7AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T00:29:24.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T00:22:22.683Z",
+              "WhenOpened": "2025-06-01T23:12:36.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "05ClassesEntidades\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "05ClassesEntidades\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAsAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "05ClassesEntidades\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "05ClassesEntidades\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:09:31.103Z",
+              "WhenOpened": "2025-06-01T23:06:06.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "05ClassesEntidades\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T23:15:42.025Z",
               "EditorCaption": ""
             }
           ]

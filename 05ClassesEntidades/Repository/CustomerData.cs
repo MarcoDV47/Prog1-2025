@@ -12,8 +12,8 @@ namespace Repository
         // static pois, independente da tela, as informações serão as mesmas
 
         public static List<Customer> Customers { get; set; } = [];
-        public static List<Product> Product { get; set; } = [];
-        public static List<Order> Order { get; set; } = [];
+        public static List<Product> Products { get; set; } = [];
+        public static List<Order> Orders { get; set; } = [];
 
     }
 }
