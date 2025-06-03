@@ -768,5 +768,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 23:04:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/Produtos.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\Produtos.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7\u002BUSQrS09gNsEt0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"280"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7\u002BUSQrS09gNsEt0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Jun 2025 00:45:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/Produtos.vi66mii26u.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\Produtos.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vi66mii26u"},{"Name":"integrity","Value":"sha256-h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7\u002BUSQrS09gNsEt0="},{"Name":"label","Value":"_content/05ClassesEntidades/TextFiles/Produtos.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"280"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7\u002BUSQrS09gNsEt0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Jun 2025 00:45:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

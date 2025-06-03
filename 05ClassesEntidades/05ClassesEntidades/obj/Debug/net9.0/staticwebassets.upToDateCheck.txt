@@ -52,6 +52,7 @@ D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwro
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\TextFiles\Produtos.txt
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
@@ -123,3 +124,4 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\TextFiles\Produtos.txt

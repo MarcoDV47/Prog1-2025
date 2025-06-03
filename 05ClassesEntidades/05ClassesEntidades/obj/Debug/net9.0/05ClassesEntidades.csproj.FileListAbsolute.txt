@@ -103,3 +103,4 @@ D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\D
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\05Classe.54E6BA78.Up2Date
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\bin\Debug\net9.0\Repository.dll
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\bin\Debug\net9.0\Repository.pdb
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\compressed\va4xc3crtr-vi66mii26u.gz

@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Unoesc/Programação I/Atividades/05ClassesEntidades/05ClassesEntidades/Views/Customer/ExportDelimitatedFile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRXhwb3J0RGVsaW1pdGF0ZWRGaWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Unoesc/Programação I/Atividades/05ClassesEntidades/05ClassesEntidades/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Unoesc/Programação I/Atividades/05ClassesEntidades/05ClassesEntidades/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unoesc/Programação I/Atividades/05ClassesEntidades/05ClassesEntidades/Views/Product/ExportDelimitatedFile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFeHBvcnREZWxpbWl0YXRlZEZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Unoesc/Programação I/Atividades/05ClassesEntidades/05ClassesEntidades/Views/Product/Index.cshtml]

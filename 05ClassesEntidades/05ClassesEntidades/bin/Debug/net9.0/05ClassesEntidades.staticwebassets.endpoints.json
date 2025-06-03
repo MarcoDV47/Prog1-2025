@@ -301,6 +301,304 @@
       ]
     },
     {
+      "Route": "TextFiles/Produtos.txt",
+      "AssetFile": "TextFiles/Produtos.txt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008474576271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h9idooU5TZVtQUT8kvTpEtFs71mHkv2JnzgPMl019CU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 00:45:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0="
+        }
+      ]
+    },
+    {
+      "Route": "TextFiles/Produtos.txt",
+      "AssetFile": "TextFiles/Produtos.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 00:45:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0="
+        }
+      ]
+    },
+    {
+      "Route": "TextFiles/Produtos.txt.gz",
+      "AssetFile": "TextFiles/Produtos.txt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h9idooU5TZVtQUT8kvTpEtFs71mHkv2JnzgPMl019CU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 00:45:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h9idooU5TZVtQUT8kvTpEtFs71mHkv2JnzgPMl019CU="
+        }
+      ]
+    },
+    {
+      "Route": "TextFiles/Produtos.vi66mii26u.txt",
+      "AssetFile": "TextFiles/Produtos.txt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008474576271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h9idooU5TZVtQUT8kvTpEtFs71mHkv2JnzgPMl019CU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 00:45:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi66mii26u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0="
+        },
+        {
+          "Name": "label",
+          "Value": "TextFiles/Produtos.txt"
+        }
+      ]
+    },
+    {
+      "Route": "TextFiles/Produtos.vi66mii26u.txt",
+      "AssetFile": "TextFiles/Produtos.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 00:45:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi66mii26u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2Sh7LJImQ4Ib4ZTbVf0gwm9kGIp7+USQrS09gNsEt0="
+        },
+        {
+          "Name": "label",
+          "Value": "TextFiles/Produtos.txt"
+        }
+      ]
+    },
+    {
+      "Route": "TextFiles/Produtos.vi66mii26u.txt.gz",
+      "AssetFile": "TextFiles/Produtos.txt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h9idooU5TZVtQUT8kvTpEtFs71mHkv2JnzgPMl019CU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 00:45:40 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi66mii26u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h9idooU5TZVtQUT8kvTpEtFs71mHkv2JnzgPMl019CU="
+        },
+        {
+          "Name": "label",
+          "Value": "TextFiles/Produtos.txt.gz"
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
