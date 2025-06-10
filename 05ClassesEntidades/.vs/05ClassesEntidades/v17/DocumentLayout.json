@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|d:\\unoesc\\programa\u00E7\u00E3o i\\atividades\\05classesentidades\\05classesentidades\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22F6620A-4D95-4FDC-B8BA-459783C3DABD}|05ClassesEntidades\\05ClassesEntidades.csproj|solutionrelative:05classesentidades\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Program.cs",
-              "RelativeDocumentMoniker": "05ClassesEntidades\\Program.cs",
-              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Program.cs",
-              "RelativeToolTip": "05ClassesEntidades\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAwCoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T00:48:51.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "05ClassesEntidades\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "05ClassesEntidades\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T23:47:57.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T00:24:48.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Customer\\Update.cshtml",
+              "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "05ClassesEntidades\\Views\\Customer\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T00:21:47.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "05ClassesEntidades\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "05ClassesEntidades\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAowE8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T00:48:34.454Z",
               "EditorCaption": ""

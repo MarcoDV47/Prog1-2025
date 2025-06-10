@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\05ClassesEntidades.q36vpqvfls.bundle.scp.css"
     },
     {
+      "Id": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\wwwroot\\TextFiles\\Delimitado.txt",
+      "PackagePath": "staticwebassets\\TextFiles\\Delimitado.txt"
+    },
+    {
+      "Id": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\wwwroot\\TextFiles\\DelimitatedFile.txt",
+      "PackagePath": "staticwebassets\\TextFiles\\DelimitatedFile.txt"
+    },
+    {
       "Id": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\wwwroot\\TextFiles\\Produtos.txt",
       "PackagePath": "staticwebassets\\TextFiles\\Produtos.txt"
     },

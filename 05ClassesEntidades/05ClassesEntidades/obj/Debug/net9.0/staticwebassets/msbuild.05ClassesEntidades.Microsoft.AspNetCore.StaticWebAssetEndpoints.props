@@ -768,6 +768,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 12 May 2025 23:04:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/Delimitado.i59pxhdw62.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\Delimitado.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i59pxhdw62"},{"Name":"integrity","Value":"sha256-apBx7l6o\u002BQrWeP1i1IP0R6zPaZqh2zapv5tgyVGhj/E="},{"Name":"label","Value":"_content/05ClassesEntidades/TextFiles/Delimitado.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3743"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022apBx7l6o\u002BQrWeP1i1IP0R6zPaZqh2zapv5tgyVGhj/E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 22:35:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/Delimitado.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\Delimitado.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-apBx7l6o\u002BQrWeP1i1IP0R6zPaZqh2zapv5tgyVGhj/E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3743"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022apBx7l6o\u002BQrWeP1i1IP0R6zPaZqh2zapv5tgyVGhj/E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 22:35:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/DelimitatedFile.7tv4gnm7ap.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\DelimitatedFile.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7tv4gnm7ap"},{"Name":"integrity","Value":"sha256-C2ZP8SZIXiNwX2KpktMFc1isA6DvKVJPeWZ11vVhW7g="},{"Name":"label","Value":"_content/05ClassesEntidades/TextFiles/DelimitatedFile.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4574"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022C2ZP8SZIXiNwX2KpktMFc1isA6DvKVJPeWZ11vVhW7g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 00:54:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/DelimitatedFile.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\DelimitatedFile.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-C2ZP8SZIXiNwX2KpktMFc1isA6DvKVJPeWZ11vVhW7g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4574"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022C2ZP8SZIXiNwX2KpktMFc1isA6DvKVJPeWZ11vVhW7g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 00:54:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/05ClassesEntidades/TextFiles/Produtos.txt">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TextFiles\Produtos.txt'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
