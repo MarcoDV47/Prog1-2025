@@ -1,0 +1,72 @@
+﻿@model _05ClassesEntidades.ViewModels.OrderViewModel;
+
+@{
+    ViewData["Title"] = "Criar Pedido";
+}
+
+<div class="text-center">
+    <h1>Cadastro de Pedido</h1>
+
+    <div class="container">
+
+        <form id="formOrder" method="post" asp-action="Create" asp-controller="Order">
+
+            <div class="row">
+                <div class="form-group">
+                    <label asp-for="@Model.CustomerId">Cliente:</label>
+                    <select asp-for="@Model.CustomerId">
+                        @foreach(var c in Model.Customers)
+                        {
+                            <option value="@c.Id">
+                                @c.Name
+                            </option>
+                        }
+                    </select>
+
+                    <br />
+
+                    <table class="table-bordered">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Item</th>
+                                <th>QTD</th>
+                                <th>Valor</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                    @foreach(var item in Model.SelectedItems!)
+                    {
+                        <tr>
+                            <td>
+                                <input id="@item.OrderItem.Product?.Id" type="checkbox" />
+                            </td>
+                            <td>
+                                <label for="@item.OrderItem.Product?.Id">
+                                @item.OrderItem.Product?.ProductName
+                                </label>
+                            </td>
+                            <td>
+                                <input type="number" />
+                            </td>
+                            <td>
+                                <p>
+                                    R$@item.OrderItem.Product?.CurrentPrice,00
+                                </p>
+                            </td>
+                        </tr>
+                    }
+                        </tbody>
+                    </table>
+                    <label></label>
+                </div>
+            </div>
+
+            <button id="btnOrder" type="submit" value="Cadastrar" class="btn btn-primary">
+                Cadastrar
+            </button>
+
+        </form>
+
+    </div>
+</div>

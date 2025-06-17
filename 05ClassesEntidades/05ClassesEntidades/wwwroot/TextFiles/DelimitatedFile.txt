@@ -1,4 +1,4 @@
-5Customer 15VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa1;
+1;
                        Customer 1;
                        1;
                        Videira;
@@ -9,7 +9,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 25VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa2;
+                    2;
                        Customer 2;
                        2;
                        Videira;
@@ -20,7 +20,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 35VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa3;
+                    3;
                        Customer 3;
                        3;
                        Videira;
@@ -31,7 +31,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 45VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa4;
+                    4;
                        Customer 4;
                        4;
                        Videira;
@@ -42,7 +42,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 55VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa5;
+                    5;
                        Customer 5;
                        5;
                        Videira;
@@ -53,7 +53,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 65VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa6;
+                    6;
                        Customer 6;
                        6;
                        Videira;
@@ -64,18 +64,18 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 75VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa7;
-                       Customer 7;
-                       7;
-                       Videira;
-                       Santa Catarina;
-                       Brasil;
+                    7;
+                       carlos;
+                       0;
+                       ;
+                       ;
+                       ;
                        Rua da minha casa;
                        Rua do meu apartamento;
-                       89650000;
+                       0;
                        Casa;
                        \n
-                    5Customer 85VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa8;
+                    8;
                        Customer 8;
                        8;
                        Videira;
@@ -86,7 +86,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 95VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa9;
+                    9;
                        Customer 9;
                        9;
                        Videira;
@@ -97,7 +97,7 @@
                        89650000;
                        Casa;
                        \n
-                    5Customer 105VideiraSanta CatarinaBrasilRua da minha casaRua do meu apartamento9Casa10;
+                    10;
                        Customer 10;
                        10;
                        Videira;

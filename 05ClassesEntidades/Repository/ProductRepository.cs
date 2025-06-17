@@ -23,11 +23,11 @@ namespace Repository
         {
             List<Product> ret = [];
 
-            foreach (Product c in CustomerData.Products)
+            foreach (Product p in CustomerData.Products)
             {
-                if (c.ProductName!.ToLower().Contains(name.ToLower()))
+                if (p.ProductName!.ToLower().Contains(name.ToLower()))
                 {
-                    ret.Add(c);
+                    ret.Add(p);
                 }
             }
 
@@ -44,15 +44,6 @@ namespace Repository
             return CustomerData.Products.Remove(product);
         }
 
-        public bool DeleteById(int id)
-        {
-            Product product = Retrieve(id);
-
-            if (product != null) return Delete(product);
-
-            return false;
-        }
-
         public void Update(Product newProduct)
         { 
             Product oldProduct = Retrieve(newProduct.Id);
@@ -66,6 +57,14 @@ namespace Repository
         {
             product.Id = GetCount() + 1;
             CustomerData.Products.Add(product);
+        }
+        public bool DeleteById(int id)
+        {
+            Product product = Retrieve(id);
+
+            if (product != null) return Delete(product);
+
+            return false;
         }
 
         public int GetCount()

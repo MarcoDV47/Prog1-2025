@@ -105,4 +105,5 @@ D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\bin\D
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\bin\Debug\net9.0\Repository.pdb
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\compressed\va4xc3crtr-vi66mii26u.gz
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\compressed\2vuy1f5lf2-i59pxhdw62.gz
-D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\compressed\n6v08qhjqu-7tv4gnm7ap.gz
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\compressed\aw3e1kvx8i-7tv4gnm7ap.gz
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\obj\Debug\net9.0\compressed\n6v08qhjqu-wal366pp38.gz

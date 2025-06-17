@@ -15,6 +15,7 @@ D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwro
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\TextFiles\FixedFile.txt
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\05ClassesEntidades\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
@@ -128,4 +129,5 @@ wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.j
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\TextFiles\Delimitado.txt
 wwwroot\TextFiles\DelimitatedFile.txt
+wwwroot\TextFiles\FixedFile.txt
 wwwroot\TextFiles\Produtos.txt

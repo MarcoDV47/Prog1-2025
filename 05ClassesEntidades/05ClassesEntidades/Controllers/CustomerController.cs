@@ -1,7 +1,6 @@
 ﻿using Modelo; // Não é a melhor alternativa, mas para poupar tepo, utilizaremos esta
 using Repository;
 using Microsoft.AspNetCore.Mvc;
-using System.Security.Cryptography.X509Certificates;
 
 namespace _05ClassesEntidades.Controllers
 {
@@ -43,12 +42,6 @@ namespace _05ClassesEntidades.Controllers
             // Se nenhum valor for especificado, ele voltará para o método que o chamou (Create)
         }
 
-        [HttpPost]
-        public IActionResult Edit(Customer c)
-        {
-            List<Customer> customers = _customerRepository.RetrieveAll();
-            return View(customers);
-        }
 
         [HttpGet]
         public IActionResult ExportDelimitatedFile()
@@ -58,15 +51,15 @@ namespace _05ClassesEntidades.Controllers
             {
                 fileContent +=
                     @$"{c.Id};
-                       {c.Name};
+                       {c.Name!};
                        {c.HomeAddress!.Id};
-                       {c.HomeAddress.City};
-                       {c.HomeAddress.StateOrProvince};
-                       {c.HomeAddress.Country};
-                       {c.HomeAddress.StreetLine1};
-                       {c.HomeAddress.StreetLine2};
-                       {c.HomeAddress.PostalCode};
-                       {c.HomeAddress.AddressType};
+                       {c.HomeAddress!.City};
+                       {c.HomeAddress!.StateOrProvince};
+                       {c.HomeAddress!.Country};
+                       {c.HomeAddress!.StreetLine1};
+                       {c.HomeAddress!.StreetLine2};
+                       {c.HomeAddress!.PostalCode};
+                       {c.HomeAddress!.AddressType};
                        \n
                     ";
             }
@@ -128,7 +121,7 @@ namespace _05ClassesEntidades.Controllers
                 return NotFound();
 
             return View(customer);
-        }
+        }     
 
         [HttpPost]
         public IActionResult ConfirmDelete(int? id)
@@ -138,6 +131,31 @@ namespace _05ClassesEntidades.Controllers
 
             if (!_customerRepository.DeleteById(id.Value))
                 return NotFound();
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Update(int? id)
+        {
+            if (id is null || id.Value <= 0)
+                return NotFound();
+
+            Customer customer =
+            _customerRepository.Retrieve(id.Value);
+
+            if (customer == null)
+                return NotFound();
+
+            return View(customer);
+        }
+
+        public IActionResult ConfirmUpdate(Customer newCustomer)
+        {
+            if (newCustomer.Id <= 0)
+                return NotFound();
+
+            _customerRepository.Update(newCustomer);
 
             return RedirectToAction("Index");
         }

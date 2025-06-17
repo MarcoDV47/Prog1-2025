@@ -1,3 +1,4 @@
+using Microsoft.Extensions.ObjectPool;
 using Modelo;
 using Repository;
 
@@ -58,6 +59,7 @@ static void FillCustomerData()
     }
 }
 
+string[] nomesProdutos = ["Sabonete", "Revólver 38"];
 static void FillProductData()
 {
     for (int i = 0; i < 10; i++)

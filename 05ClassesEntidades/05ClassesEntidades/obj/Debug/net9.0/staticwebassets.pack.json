@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\TextFiles\\DelimitatedFile.txt"
     },
     {
+      "Id": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\wwwroot\\TextFiles\\FixedFile.txt",
+      "PackagePath": "staticwebassets\\TextFiles\\FixedFile.txt"
+    },
+    {
       "Id": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\wwwroot\\TextFiles\\Produtos.txt",
       "PackagePath": "staticwebassets\\TextFiles\\Produtos.txt"
     },
