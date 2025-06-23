@@ -46,8 +46,7 @@
               "RelativeToolTip": "05ClassesEntidades\\Program.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAwEUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T01:04:44.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T01:04:44.784Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "05ClassesEntidades\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T00:56:33.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T00:56:33.525Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Repository\\CustomerRepository.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T00:26:53.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T00:26:53.741Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "05ClassesEntidades\\Views\\Order\\Create.cshtml",
               "ToolTip": "D:\\Unoesc\\Programa\u00E7\u00E3o I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\Views\\Order\\Create.cshtml",
               "RelativeToolTip": "05ClassesEntidades\\Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T23:35:09.232Z",
               "EditorCaption": ""
@@ -98,8 +95,7 @@
               "RelativeToolTip": "05ClassesEntidades\\ViewModels\\OrderViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T23:09:41.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T23:09:41.348Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "05ClassesEntidades\\Controllers\\OrderController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAcwCwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:30:01.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T22:30:01.861Z"
             }
           ]
         }
