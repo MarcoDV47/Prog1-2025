@@ -32,37 +32,41 @@
                                 <th>Item</th>
                                 <th>QTD</th>
                                 <th>Valor</th>
+                                <th>Preço Atual</th>
                             </tr>
                         </thead>
                         <tbody>
-                    @foreach(var item in Model.SelectedItems!)
-                    {
-                        <tr>
-                            <td>
-                                <input id="@item.OrderItem.Product?.Id" type="checkbox" />
-                            </td>
-                            <td>
-                                <label for="@item.OrderItem.Product?.Id">
-                                @item.OrderItem.Product?.ProductName
-                                </label>
-                            </td>
-                            <td>
-                                <input type="number" />
-                            </td>
-                            <td>
-                                <p>
-                                    R$@item.OrderItem.Product?.CurrentPrice,00
-                                </p>
-                            </td>
-                        </tr>
-                    }
+                        @for(int i = 0; i < Model.SelectedItems!.Count; i++)
+                        {
+                            <tr>
+                                <td>
+                                    <input id="@i" asp-for="@Model.SelectedItems[i].IsSelected" />
+                                </td>
+                                <td>
+                                    <input type="hidden" asp-for="@Model.SelectedItems[i].OrderItem.Product!.Id" />
+                                    <label for="@i">
+                                        @Model.SelectedItems[i].OrderItem.Product?.ProductName
+                                    </label>
+                                </td>
+                                <td>
+                                    <input type="number" asp-for="@Model.SelectedItems[i].OrderItem.Quantity" />
+                                </td>
+                                <td>
+                                    <input type="number" asp-for="@Model.SelectedItems[i].OrderItem.PurchasePrice" />
+                                </td>
+                                <td>
+                                    <p>
+                                        @string.Format("{0:C}", Model.SelectedItems[i].OrderItem.Product!.CurrentPrice)
+                                    <p />
+                                </td>
+                            </tr>
+                        }
                         </tbody>
                     </table>
-                    <label></label>
                 </div>
             </div>
 
-            <button id="btnOrder" type="submit" value="Cadastrar" class="btn btn-primary">
+            <button id="btnOrder" type="submit" class="btn btn-primary">
                 Cadastrar
             </button>
 
